@@ -4,4 +4,4 @@
 <br><br>
 [![My Skills](https://skillicons.dev/icons?i=react,ts,redux,github,git,html,css,js,tailwind,bootstrap,sass,nodejs,express,figma,mongodb,postman,figma,materialui,visualstudio,vscode,stackoverflow,c,babel,mysql,&perline=12)](https://skillicons.dev)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ilyasfarkhane-1500&theme=react&hide_border=true&card_width=684)](https://git.io/streak-stats)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ilyasfarkhane-1500&theme=react)
+![](http://https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ilyasfarkhane-1500&theme=react)
