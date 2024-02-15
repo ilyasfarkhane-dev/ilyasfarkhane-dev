@@ -7,3 +7,8 @@
 <br>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ilyasfarkhane-1500&theme=react )
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ilyasfarkhane-1500&theme=react)
+<br>
+<br>
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ilyasfarkhane-1500&theme=react)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ilyasfarkhane-1500&theme=react&utcOffset=8)
+<br>
